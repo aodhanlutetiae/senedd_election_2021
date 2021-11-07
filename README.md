@@ -1,7 +1,7 @@
 # senedd_election_2021
 Results from the 2021 Senedd election in Wales
 
-There is one file for constituency results, where each of the 40 constituencies returns one Member, and another for regional results where each of the five regions returns four Members. The variables include:
+There is one file for constituency results (c_results.csv), where each of the 40 constituencies returns one Member, and another for regional results (r_results.csv) where each of the five regions returns four Members. The variables include:
 
 - constituency
 - region
